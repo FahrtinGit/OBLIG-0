@@ -8,3 +8,4 @@ Username: FahrtinGit
 >>>>>>> refs/remotes/origin/main
 TEST2
 TEST4
+TEST 6
